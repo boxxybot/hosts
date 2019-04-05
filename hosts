@@ -32,6 +32,21 @@
 0.0.0.0	ambassadors.microsoft.com
 0.0.0.0	msdn.microsoft.com
 0.0.0.0	devblogs.microsoft.com
+0.0.0.0	account.azure.com
+0.0.0.0	batchaitraining.azure.com
+0.0.0.0	status.azure.com
+0.0.0.0	mobile.azure.com
+0.0.0.0	docs.mobile.azure.com
+0.0.0.0	insurance.azure.com
+0.0.0.0	notebooks.azure.com
+0.0.0.0	functions.azure.com
+0.0.0.0	friday.azure.com
+0.0.0.0	processsimple.azure.com
+0.0.0.0	dev.azure.com
+0.0.0.0	gpu.azure.com
+0.0.0.0	banking.azure.com
+0.0.0.0	rendering.azure.com
+0.0.0.0	cloudapp.azure.com
 
 0.0.0.0	www.microsoft.com
 0.0.0.0	bing.com
