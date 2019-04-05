@@ -15,12 +15,32 @@
 0.0.0.0 detectportal.firefox.com
 	
 0.0.0.0	microsoft.com
+0.0.0.0	grv.microsoft.com
+0.0.0.0	events.microsoft.com
+0.0.0.0	office.microsoft.com
+0.0.0.0	forms.microsoft.com
+0.0.0.0	gallery.technet.microsoft.com
+0.0.0.0	technet.microsoft.com
+0.0.0.0	news.microsoft.com
+0.0.0.0	testconnectivity.microsoft.com
+0.0.0.0	edusupport.microsoft.com
+0.0.0.0	support.microsoft.com
+0.0.0.0	dotnet.microsoft.com
+0.0.0.0	powerbi.microsoft.com
+0.0.0.0	docs.microsoft.com
+0.0.0.0	account.microsoft.com
+0.0.0.0	ambassadors.microsoft.com
+0.0.0.0	msdn.microsoft.com
+0.0.0.0	devblogs.microsoft.com
+
 0.0.0.0	www.microsoft.com
 0.0.0.0	bing.com
 0.0.0.0	www.bing.com
 0.0.0.0	msn.com
 0.0.0.0	www.msn.com
 0.0.0.0	code.visualstudio.com
+0.0.0.0	visualstudio.microsoft.com
+0.0.0.0	onedrive.live.com
 
 0.0.0.0 support.cloudflare.com
 0.0.0.0 ajax.cloudflare.com
