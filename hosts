@@ -1,3 +1,4 @@
+
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 experiments.mozilla.org
 0.0.0.0 telemetry.mozilla.org
@@ -14,7 +15,6 @@
 0.0.0.0 detectportal.firefox.com
 	
 0.0.0.0	microsoft.com
-0.0.0.0	azure.microsoft.com
 0.0.0.0	www.microsoft.com
 0.0.0.0	bing.com
 0.0.0.0	www.bing.com
@@ -22,6 +22,7 @@
 0.0.0.0	www.msn.com
 0.0.0.0	code.visualstudio.com
 
+0.0.0.0 support.cloudflare.com
 0.0.0.0 ajax.cloudflare.com
 0.0.0.0 api.cloudflare.com
 0.0.0.0 beth.ns.cloudflare.com
@@ -1571,6 +1572,7 @@
 0.0.0.0 atlassolutions.com
 0.0.0.0 audible.com
 0.0.0.0 azure.com
+0.0.0.0 azure.microsoft.com
 0.0.0.0 azuredns-cloud.net
 0.0.0.0 azure.net
 0.0.0.0 azure-test.net
@@ -2162,7 +2164,6 @@
 0.0.0.0 vboxprod.com
 0.0.0.0 vidzone.tv
 0.0.0.0 visualstudio.com
-0.0.0.0 walmart.com
 0.0.0.0 wbaltv.com
 0.0.0.0 webtv.net
 0.0.0.0 whymicrosoft.com
