@@ -1,3 +1,4 @@
+#Append this to end of your privoxy user.action file...
 {+block{Facebook "like" and similar tracking URLs.}}
 .microsoft.
 .facebook.com
